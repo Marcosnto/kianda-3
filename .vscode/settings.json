@@ -21,6 +21,7 @@
   },
   "peacock.color": "#5c5303",
   "conventionalCommits.scopes": [
-    "apps/strapi"
+    "apps/portal",
+    "apps/site"
   ]
 }
